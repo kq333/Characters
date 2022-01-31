@@ -1,3 +1,9 @@
+Add/Remove favorites characters from Rick and Morty tv show. 
+Use search engine to find character by name, gender or id.
+
+www: https://goofy-lovelace-b0f901.netlify.app/#/
+
+
 # browsecharacters
 
 ## Project setup
